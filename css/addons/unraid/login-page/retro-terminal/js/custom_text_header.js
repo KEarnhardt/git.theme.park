@@ -6,7 +6,7 @@
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 
 let custom_text_header = `
-<div class="custom-text-header"> <pre class="center-text">                   
+<div class="custom-text-header"> <pre>                   
 ___  __    _______   ________  ________  _______   ________  _________  ___  ________  ________   ________      
 |\  \|\  \ |\  ___ \ |\   ____\|\   __  \|\  ___ \ |\   __  \|\___   ___\\  \|\   __  \|\   ___  \|\   ____\     
 \ \  \/  /|\ \   __/|\ \  \___|\ \  \|\  \ \   __/|\ \  \|\  \|___ \  \_\ \  \ \  \|\  \ \  \\ \  \ \  \___|_    
