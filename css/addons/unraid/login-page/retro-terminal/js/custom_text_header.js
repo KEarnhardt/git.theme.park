@@ -5,6 +5,6 @@
 // Needs to be inside <section id="login" class="shadow">
 // YOU MUST ESCAPE ANY SINGLE BACKSLASHES LIKE SO: \\
 let custom_text_header = `
-<div class="custom-text-header"> <div class="custom-header">KECreations</div> </div>
+<div class="custom-text-header"> <div class="custom-header">Welcome</div> </div>
 `;
 document.getElementById("login").innerHTML += custom_text_header
