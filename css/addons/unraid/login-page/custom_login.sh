@@ -1,7 +1,7 @@
 #!/bin/bash
 TYPE="retro-terminal"
 THEME="green.css"
-DOMAIN="github.com/KEarnhardt"
+DOMAIN="kearnhardt.github.io"
 SCHEME="https"
 ADD_JS="true"
 JS="custom_text_header.js"
@@ -54,7 +54,7 @@ fi
 case ${DOMAIN} in
   *"github.io"*)
   echo "Switching to github.io URL style"
-    DOMAIN="${DOMAIN}\/theme.park"
+    DOMAIN="${DOMAIN}\/git.theme.park"
     ;;
 esac
 
